@@ -1,1 +1,1 @@
-console.log('Hello, world!') // Hello, world!
+console.log('Hello, world!') // Hello, world edit some text! I just want the terminal
